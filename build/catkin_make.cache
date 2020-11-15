@@ -1,0 +1,2 @@
+tutorial1_urdf
+-DCATKIN_DEVEL_PREFIX=/home/aditya/mnri_ws/devel -DCMAKE_INSTALL_PREFIX=/home/aditya/mnri_ws/install -G Unix Makefiles
